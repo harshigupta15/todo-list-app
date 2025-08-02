@@ -2,6 +2,7 @@
 A simple and responsive To-Do List web application built with HTML, CSS, and JavaScript. Users can add, complete, and delete tasks easily with an intuitive interface.
 
 ⚙️ Features
+
 ✅ Add new tasks
 
 ✅ Mark tasks as complete
@@ -22,6 +23,8 @@ todo-list-app/
 ├── style.css         # Styling (CSS)
 ├── script.js         # Logic (JavaScript)
 └── README.md         # Project info
+
+
 🚀 Getting Started
 1. Clone the repository
 bash
@@ -37,12 +40,15 @@ Copy
 Edit
 start index.html  # Windows
 open index.html   # macOS
+
+
 🛠️ Tech Stack
 HTML5
 
 CSS3
 
 JavaScript (Vanilla)
+
 
 📌 Future Improvements
 🌙 Add dark mode
